@@ -39,10 +39,17 @@ Open in browser
 http://localhost:8080
 ```
 
-## Project Structure:
+## Project Structure
 ```bash
 .
 ├── deployment.yaml
 ├── service.yaml
 └── screenshots/
 ```
+## Skills Demonstrated
+• Kubernetes Deployment
+• Kubernetes Services
+• kubectl CLI
+• YAML manifests
+• Container orchestration
+• Local Kubernetes cluster setup
