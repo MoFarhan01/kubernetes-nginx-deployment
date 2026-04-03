@@ -15,7 +15,6 @@ Create deployment:
 kubectl apply -f deployment.yaml
 
 ```
-![Nginx Screenshot](screenshots/deployment.png)
 Create Service
 
 ```bash
@@ -26,6 +25,7 @@ Check pods:
 ```bash
 kubectl get pods
 ```
+![Nginx Screenshot](screenshots/deployment.png)
 Check service
 ```bash
 kubectl get svc
