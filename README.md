@@ -1,26 +1,27 @@
 # Kubernetes Nginx Deployment
 
-This project demonstrates deploying a containerized Nginx application on a Kubernetes cluster using kubectl and exposing it via service.
+This project demonstrates deploying a containerized Nginx application on a Kubernetes cluster using kubectl and exposing it via a service.
 
-## Architecture:
-- Kubernetes local cluster (Docker Desktop)
+## Architecture
+- Kubernetes cluster (Docker Desktop)
 - Nginx container deployment
 - NodePort service exposure
 - Port-forward access
 
-## Deployment:
+## Deployment Steps
+
+Create deployment:
 ```bash
 kubectl apply -f deployment.yaml
-kubectl apply -f service.yaml
 
 ```
-## Create Service
+Create Service
 
 ```bash
 kubectl apply -f service.yaml
 ```
-## Verify Resources:
-# Check pods
+## Verify Resources
+## Check pods:
 ```bash
 kubectl get pods
 ```
