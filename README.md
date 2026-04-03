@@ -15,6 +15,7 @@ Create deployment:
 kubectl apply -f deployment.yaml
 
 ```
+![Nginx Screenshot](screenshots/deployment.png)
 Create Service
 
 ```bash
