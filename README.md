@@ -25,7 +25,7 @@ Check pods:
 ```bash
 kubectl get pods
 ```
-![Nginx Screenshot](screenshots/deployment.png)
+![Nginx Screenshot](screenshots/pods running.png)
 Check service
 ```bash
 kubectl get svc
