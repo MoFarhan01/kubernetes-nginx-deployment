@@ -13,4 +13,17 @@ This project demonstrates deploying a containerized Nginx application on a Kuber
 kubectl apply -f deployment.yaml
 kubectl apply -f service.yaml
 
+```
 ## Create Service
+```bash
+kubectl apply -f service.yaml
+```
+##Verify Resources
+# Check pods:
+```bash
+kubectl get pods
+```
+#Check service:
+```bash
+kubectl get svc
+```
