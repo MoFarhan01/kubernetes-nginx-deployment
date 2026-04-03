@@ -42,6 +42,16 @@ http://localhost:8080
 ```
 ![Nginx Screenshot](screenshots/nginx.png)
 
+## Scaling the Deployment
+Scale to 3 replicas:
+```bash
+kubectl scale deployment nginx --replicas=3
+```
+Verify replicas:
+```bash
+kubectl get pods
+```
+![Nginx Screenshot](screenshots/scaling_replicas.png)
 ## Project Structure
 ```bash
 .
