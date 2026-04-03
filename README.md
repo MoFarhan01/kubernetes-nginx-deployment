@@ -21,7 +21,7 @@ Create Service
 kubectl apply -f service.yaml
 ```
 ## Verify Resources
-## Check pods:
+Check pods:
 ```bash
 kubectl get pods
 ```
