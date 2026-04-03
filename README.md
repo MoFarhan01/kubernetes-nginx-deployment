@@ -47,9 +47,9 @@ http://localhost:8080
 └── screenshots/
 ```
 ## Skills Demonstrated
-• Kubernetes Deployment
-• Kubernetes Services
-• kubectl CLI
-• YAML manifests
-• Container orchestration
-• Local Kubernetes cluster setup
+• Kubernetes Deployment  
+• Kubernetes Services  
+• kubectl CLI  
+• YAML manifests  
+• Container orchestration  
+• Local Kubernetes cluster setup  
