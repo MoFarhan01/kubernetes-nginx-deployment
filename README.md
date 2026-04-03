@@ -30,6 +30,7 @@ Check service
 ```bash
 kubectl get svc
 ```
+![Nginx Screenshot](screenshots\service_node_port)
 ## Access Application:
 Using port-forward
 ```bash
