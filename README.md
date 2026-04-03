@@ -25,16 +25,16 @@ Check pods:
 ```bash
 kubectl get pods
 ```
-## Check service
+Check service
 ```bash
 kubectl get svc
 ```
 ## Access Application:
-# Using port-forward
+Using port-forward
 ```bash
 kubectl port-forward deployment/nginx 8080:80
 ```
-## Open in browser
+Open in browser
 ```bash
 http://localhost:8080
 ```
