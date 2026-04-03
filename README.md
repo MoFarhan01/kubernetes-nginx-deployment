@@ -15,10 +15,11 @@ kubectl apply -f service.yaml
 
 ```
 ## Create Service
+
 ```bash
 kubectl apply -f service.yaml
 ```
-##Verify Resources
+## Verify Resources
 # Check pods:
 ```bash
 kubectl get pods
