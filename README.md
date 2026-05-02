@@ -1,4 +1,4 @@
-# Kubernetes Nginx Deployment
+# Kubernetes Workload Deployment & Orchestration
 
 This project demonstrates deploying a containerized Nginx application on a Kubernetes cluster using kubectl and exposing it via a service.
 
